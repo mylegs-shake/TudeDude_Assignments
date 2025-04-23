@@ -1,6 +1,6 @@
 # TudeDude_Assignments  
-Assignment 1:
- 
+
+### Assignment 1:
 Task 1: Perform Basic Mathematical Operations
 Problem Statement: Write a Python program that does the following:
 1.  Takes two numbers as input from the user.
@@ -20,12 +20,4 @@ Problem Statement: Write a Python program that:
 3.  Prints a personalized greeting message using the full name.
 Expected Output:
 The program should output a greeting like:
-
- 
- 
-Submission Instructions:
-Create a GitHub repository and upload your Python scripts (.py files).
-Ensure the repository includes a README.md file that describes the functionality of your programs.
-Add both Task 1 and Task 2 scripts in the same repository.
-Submit the link to your GitHub repository once uploaded.
 ---
